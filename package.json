@@ -1,0 +1,11 @@
+{
+  "name": "emailDesign",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-cloudfiles": "^0.3.0",
+    "grunt-litmus": "^0.1.8",
+    "grunt-mailgun": "^1.0.1",
+    "grunt-special-html": "0.0.2"
+  }
+}
