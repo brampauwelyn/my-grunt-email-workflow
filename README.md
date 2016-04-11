@@ -1,3 +1,5 @@
 #My Grunt Email Workflow
 
-##This is a Email Workflow built with the GRUNT Taskrunner and inspired by @leemunroe repository (grunt-email-workflow).
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+
+###This is a Email Workflow built with the GRUNT Taskrunner and inspired by @leemunroe repository (grunt-email-workflow).
