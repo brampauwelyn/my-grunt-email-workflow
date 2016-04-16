@@ -10,14 +10,14 @@ With this workflow you can automate some parts of your email workflow like testi
 
 #### Getting Started with Grunt
 
-1. Install the GRUNT CLI (command line interface), in order to install this you first need to install [Node.js](https://nodejs.org/en/), if you don't have it installed yet. Go to their website and follow the steps. Run the following command. The -g flag will install the GRUNT CLI globally so you will only need to run this command once. 
+##### 1. Install the GRUNT CLI (command line interface), in order to install this you first need to install [Node.js](https://nodejs.org/en/), if you don't have it installed yet. Go to their website and follow the steps. Run the following command. The -g flag will install the GRUNT CLI globally so you will only need to run this command once. 
 
 ```sh
 npm install -g grunt-cli
 ```
 
-2. Create a new directory / folder in which you are going to work in.
-3. Create a package.json file. You can do it manually or you can just run the following command:
+##### 2. Create a new directory / folder in which you are going to work in.
+##### 3. Create a package.json file. You can do it manually or you can just run the following command:
 
 Go to your directory / folder
 ```sh
